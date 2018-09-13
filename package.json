@@ -1,0 +1,12 @@
+{
+  "id": "Android Messages",
+  "name": "Android Messages",
+  "version": "1.0.0",
+  "description": "Android Messages plugin for Franz 5",
+  "main": "index.js",
+  "author": "Ammonious@gmail.com, corbin@jux.moe",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://messages.android.com"
+  }
+}
